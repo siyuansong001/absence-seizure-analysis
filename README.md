@@ -39,3 +39,11 @@ Additional package requirements may depend on the specific analysis script or no
 
 This repository is released under the MIT License.
 
+## Installation
+
+The analysis scripts were tested using Python 3.8. Required Python packages include numpy, pandas, scipy, matplotlib, scikit-learn, scanpy, anndata, umap-learn, seaborn and mne-python.
+
+To install the required Python packages, run:
+
+```bash
+pip install numpy pandas scipy matplotlib scikit-learn scanpy anndata umap-learn seaborn mne
